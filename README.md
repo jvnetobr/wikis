@@ -1,3 +1,3 @@
 # Wikis
 
-### Repositório criado para salvar wikis referentes à documentações de sistemas, aplicações e padrões
+#### Repositório para criação de documentações de scripts, sistemas, aplicações e padrões adotados
